@@ -15,7 +15,7 @@
     - home section -
     - About section -
     - experience section -
-    - projects section -
+    - gallery section -
     - Contact section -
     - Responsive media queries -
 */
@@ -346,6 +346,7 @@ a.active {
     color: #888;
     margin-top: 20px;
     font-size: 15px;
+    text-align: justify;
 }
 
 .experience-row .date {
@@ -445,10 +446,10 @@ a.active {
 }
 
 
-/* projects section
+/* gallery section
 ==================================================*/
 
-#projects {
+#gallery {
     padding: 100px 0;
 }
 
