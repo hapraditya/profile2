@@ -14,7 +14,7 @@
 	- Header -
     - home section -
     - About section -
-    - experience section -
+    - passion section -
     - gallery section -
     - Contact section -
     - Responsive media queries -
@@ -320,20 +320,20 @@ a.active {
 }
 
 
-/* experience section
+/* passion section
 ==================================================*/
 
-#experience {
+#passion {
     padding: 100px 0;
     background: #f3f3f3
 }
 
-.experience-row {
+.passion-row {
     padding: 20px 0;
     border-bottom: 1px solid #ddd;
 }
 
-.experience-row h3 {
+.passion-row h3 {
     font-family: 'Lato', sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
@@ -342,14 +342,14 @@ a.active {
     font-weight: bold
 }
 
-.experience-row p {
+.passion-row p {
     color: #888;
     margin-top: 20px;
     font-size: 15px;
     text-align: justify;
 }
 
-.experience-row .date {
+.passion-row .date {
     color: #000;
     font-size: 17px;
 }
